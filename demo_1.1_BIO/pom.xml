@@ -5,12 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>sherlock</groupId>
-    <artifactId>netty</artifactId>
+    <artifactId>demo_1.1_BIO</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>demo_1.0_BIO</module>
-        <module>demo_1.1_BIO</module>
-    </modules>
-    <packaging>pom</packaging>
+
 
 </project>
